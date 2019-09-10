@@ -103,7 +103,8 @@ body, html{
     border: none;
     padding:10px;
     border-radius:10px;
-    background-color: #f4f4f4;
+    background-color: rgba(3,137,255,0.15);
+    
 }
 .footer__container-character:hover{
     -webkit-box-shadow: 0px 7px 42px -19px rgba(0,0,0,0.75);
