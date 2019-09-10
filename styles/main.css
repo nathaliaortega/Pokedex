@@ -99,7 +99,8 @@ body, html{
     text-align: center;
     width: 100%;
 }
-.footer__container-character{   
+.footer__container-character{ 
+    border: none;
     padding:10px;
     border-radius:10px;
     background-color: #f4f4f4;
